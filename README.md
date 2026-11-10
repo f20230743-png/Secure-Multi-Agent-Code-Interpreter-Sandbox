@@ -66,9 +66,5 @@ with Sandbox.create() as sandbox:
     execution = sandbox.run_code("x+=1; x")
     print(execution.text)  # outputs 2
 ```
-
-### 4. Check docs
-Visit [E2B documentation](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter).
-
 ## Customizing the sandbox template
 Need extra packages or a different runtime? You can build your own Code Interpreter sandbox template. See the [template guide](/template/README.md) for a step-by-step walkthrough of creating, building, and using a custom template (as well as building the production `code-interpreter-v1` template).
