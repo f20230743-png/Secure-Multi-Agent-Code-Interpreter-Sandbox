@@ -20,7 +20,7 @@
 > The `@e2b/code-interpreter` and `e2b-code-interpreter` SDK sources now live in the [E2B monorepo](https://github.com/e2b-dev/E2B), under `packages/code-interpreter-js` and `packages/code-interpreter-python`. Open SDK issues and pull requests there. This repository keeps the sandbox template, which bundles the chart data extractor (`template/charts`).
 
 ## What is E2B?
-[E2B](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter) is an open-source infrastructure that allows you to run AI-generated code in secure isolated sandboxes in the cloud. To start and control sandboxes, use our [JavaScript SDK](https://www.npmjs.com/package/@e2b/code-interpreter) or [Python SDK](https://pypi.org/project/e2b_code_interpreter).
+(https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter) is an open-source infrastructure that allows you to run AI-generated code in secure isolated sandboxes in the cloud. To start and control sandboxes, use our [JavaScript SDK](https://www.npmjs.com/package/@e2b/code-interpreter) or [Python SDK](https://pypi.org/project/e2b_code_interpreter).
 
 ## Run your first Sandbox
 
@@ -37,7 +37,7 @@ pip install e2b-code-interpreter
 ```
 
 ### 2. Get your E2B API key
-1. Sign up to E2B [here](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter).
+1 [here](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter).
 2. Get your API key [here](https://e2b.dev/dashboard?tab=keys&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter).
 3. Set environment variable with your API key.
 ```
