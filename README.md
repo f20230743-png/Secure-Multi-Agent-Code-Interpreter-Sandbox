@@ -73,8 +73,5 @@ with Sandbox.create() as sandbox:
 ### 4. Check docs
 Visit [E2B documentation](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=code-interpreter).
 
-### 5. E2B cookbook
-Visit our [Cookbook](https://github.com/e2b-dev/e2b-cookbook/tree/main) to get inspired by examples with different LLMs and AI frameworks.
-
 ## Customizing the sandbox template
 Need extra packages or a different runtime? You can build your own Code Interpreter sandbox template. See the [template guide](/template/README.md) for a step-by-step walkthrough of creating, building, and using a custom template (as well as building the production `code-interpreter-v1` template).
